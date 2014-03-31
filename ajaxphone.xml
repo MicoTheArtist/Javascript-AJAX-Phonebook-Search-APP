@@ -1,0 +1,44 @@
+<?xml version="1.0"?> 
+<!DOCTYPE PHONEBOOK>
+<PHONEBOOK>
+	<LISTING>
+		<FIRST>John</FIRST>
+		<LAST>Doe</LAST>
+		<PHONE>1-800-123-4567</PHONE>
+		<ADDRESS>27 Tennessee, Irvine, CA 92606</ADDRESS>
+		<EMAIL>john@smith.com</EMAIL>
+		<IMAGE>John.png</IMAGE>
+	</LISTING>
+	<LISTING>
+		<FIRST>Janey</FIRST>
+		<LAST>moch</LAST>
+		<PHONE>1-800-234-5678</PHONE>
+		<ADDRESS>10 Deerwood East, Irvine, CA 92604</ADDRESS>
+		<EMAIL>janey@smith.com</EMAIL>
+		<IMAGE>Janey.png</IMAGE>
+	</LISTING>
+	<LISTING>
+		<FIRST>JoJo</FIRST>
+		<LAST>Jakob</LAST>
+		<PHONE>1-800-234-5678</PHONE>
+		<ADDRESS>20 Deerwood East, Irvine, CA 92604</ADDRESS>
+		<EMAIL>jakob@smith.com</EMAIL>
+		<IMAGE>JoJo.png</IMAGE>
+	</LISTING>
+	<LISTING>
+		<FIRST>Georgoe</FIRST>
+		<LAST>Smith</LAST>
+		<PHONE>1-800-234-5678</PHONE>
+		<ADDRESS>10 Tennessee, Irvine, CA 92606</ADDRESS>
+		<EMAIL>Georgoe@smith.com</EMAIL>
+		<IMAGE>George.png</IMAGE>
+	</LISTING>
+	<LISTING>
+		<FIRST>Jane</FIRST>
+		<LAST>YoYo</LAST>
+		<PHONE>1-800-234-5678</PHONE>
+		<ADDRESS>1 Tennessee, Irvine, CA 92606</ADDRESS>
+		<EMAIL>jane@smith.com</EMAIL>
+		<IMAGE>Jane.png</IMAGE>
+	</LISTING>
+</PHONEBOOK>
